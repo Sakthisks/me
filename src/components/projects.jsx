@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub} from "@fortawesome/free-brands-svg-icons";
-import { faFolderOpen} from "@fortawesome/free-regular-svg-icons";
+
 import { faExternalLinkAlt} from "@fortawesome/free-solid-svg-icons";
 
 export default class Projects extends Component {
@@ -23,14 +23,33 @@ export default class Projects extends Component {
                         <div class="col-md-12">
                         <p> 
                         Bughound
-                        <a href="https://github.com/Sakthisks/Bughound" class="sks">
+                        <a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks/Bughound" class="sks">
                  		<FontAwesomeIcon icon={faGithub} size="1x" /></a>
-                 		<a href="https://github.com/Sakthisks" class="sks">
+                 		<a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks" class="sks">
                   		<FontAwesomeIcon icon={faExternalLinkAlt} size="1x" /></a><br></br>
                   		
                 		</p>
                         
-                        <p> Bug hound is a web-based bug recording and tracking software product that allows to access error report for the software</p>                
+                        <p>Bug hound is a Web-based CRUD Application to record and track bugs in Software for enterprise use with session management, administered multi-level access, multi-user options, validations</p>                
+		                </div>
+		                </div>
+		                </div>
+		                </div>
+		                </div>
+		                <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                		<div class="panel-project">
+                    	<div class="row">
+                        <div class="col-md-12">
+                        <p>Expense Tracker 
+                        <a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks/Quicklogs" class="sks">
+                 		<FontAwesomeIcon icon={faGithub} size="1x" /></a>
+                 		<a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks" class="sks">
+                  		<FontAwesomeIcon icon={faExternalLinkAlt} size="1x" /></a><br></br>
+                  		
+                		</p>
+                        
+                        <p> An Android Application that keeps track of income-expense, savings of the user with features that predicts the daily savings to reach annual savings goal and generates multi-graph report</p>
 		                </div>
 		                </div>
 		                </div>
@@ -42,15 +61,15 @@ export default class Projects extends Component {
                     	<div class="row">
                         <div class="col-md-12">
                         <p> 
-                        Bughound
-                        <a href="https://github.com/Sakthisks/Bughound" class="sks">
+                        Data Visualization
+                        <a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks/Data-Visualization" class="sks">
                  		<FontAwesomeIcon icon={faGithub} size="1x" /></a>
-                 		<a href="https://github.com/Sakthisks" class="sks">
+                 		<a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks" class="sks">
                   		<FontAwesomeIcon icon={faExternalLinkAlt} size="1x" /></a><br></br>
                   		
                 		</p>
                         
-                        <p> Bug hound is a web-based bug recording and tracking software product that allows to access error report for the software</p>                
+                        <p> A Scatterplot Visualization of Eye-tracking data to determine the movement of pupil, and Data Analysis to determine the point of interest of one user in two different user interface scenarios</p>                
 		                </div>
 		                </div>
 		                </div>
@@ -62,15 +81,15 @@ export default class Projects extends Component {
                     	<div class="row">
                         <div class="col-md-12">
                         <p> 
-                        Bughound
-                        <a href="https://github.com/Sakthisks/Bughound" class="sks">
+                        Online ATM Portal
+                        <a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks/ATM-Online-Portal" class="sks">
                  		<FontAwesomeIcon icon={faGithub} size="1x" /></a>
-                 		<a href="https://github.com/Sakthisks" class="sks">
+                 		<a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks" class="sks">
                   		<FontAwesomeIcon icon={faExternalLinkAlt} size="1x" /></a><br></br>
                   		
                 		</p>
                         
-                        <p> Bug hound is a web-based bug recording and tracking software product that allows to access error report for the software</p>                
+                        <p> Imaginary clone of an online ATM portal for easy use in everyday life that allows to perform banking operations with session management and admin-user access</p>                
 		                </div>
 		                </div>
 		                </div>
@@ -81,49 +100,48 @@ export default class Projects extends Component {
                 		<div class="panel-project">
                     	<div class="row">
                         <div class="col-md-12">
-                        <p> 
-                        Bughound
-                        <a href="https://github.com/Sakthisks/Bughound" class="sks">
+                        <p>Tweets Location 
+                        <a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks/Location-Detection-From-Tweets" class="sks">
                  		<FontAwesomeIcon icon={faGithub} size="1x" /></a>
-                 		<a href="https://github.com/Sakthisks" class="sks">
+                 		<a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks" class="sks">
                   		<FontAwesomeIcon icon={faExternalLinkAlt} size="1x" /></a><br></br>
                   		
                 		</p>
                         
-                        <p> Bug hound is a web-based bug recording and tracking software product that allows to access error report for the software</p>                
-		                </div>
-		                </div>
-		                </div>
-		                </div>
-		                </div>
-		                <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-                		<div class="panel-project">
-                    	<div class="row">
-                        <div class="col-md-12">
-                        <p> 
-                        Bughound
-                        <a href="https://github.com/Sakthisks/Bughound" class="sks">
-                 		<FontAwesomeIcon icon={faGithub} size="1x" /></a>
-                 		<a href="https://github.com/Sakthisks" class="sks">
-                  		<FontAwesomeIcon icon={faExternalLinkAlt} size="1x" /></a><br></br>
-                  		
-                		</p>
-                        
-                        <p> Bug hound is a web-based bug recording and tracking software product that allows to access error report for the software</p>                
+                        <p> An application that detects the location where the most number of tweets are being made from. Provides the Latitude, Longitude Coordinates.</p>                
 		                </div>
 		                </div>
 		                </div>
 		                </div>
 		                </div>
 		                
+                  <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                    <div class="panel-project">
+                      <div class="row">
+                        <div class="col-md-12">
+                        <p> 
+                        Health Tracker
+                        <a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks/FitBit" class="sks">
+                    <FontAwesomeIcon icon={faGithub} size="1x" /></a>
+                    <a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks" class="sks">
+                      <FontAwesomeIcon icon={faExternalLinkAlt} size="1x" /></a><br></br>
+                      
+                    </p>
+                        
+                        <p> An Application that tracks people's habits and provide detailed Health monitoring analysis with proper suggestion of Exercise tips</p>                
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    </div>  
 
 
 
 
 						<div className="row">
 							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+								<p><a  target="_blank" rel="noopener noreferrer" href="https://github.com/Sakthisks" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
 							</div>
 						</div>
 					</div>

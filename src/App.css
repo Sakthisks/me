@@ -85,8 +85,8 @@ a.skills {
   background: #172a45;
   padding: 0px 0px;
   margin-right: 0px;
-  margin-left: 60px;
-  align-items: right;
+  margin-left: 40px;
+  align-items: left;
 }
 .sks:hover {
     color: #64ffda;

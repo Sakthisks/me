@@ -6,7 +6,7 @@ import About from './components/about'
 import Experience  from './components/experience'
 import Education  from './components/education'
 import Project from './components/projects'
-import Blog from './components/blog'
+import Certifications from './components/certifications'
 import Contact from './components/contact'
 
 class App extends Component {
@@ -21,7 +21,7 @@ class App extends Component {
 					 <Experience ></Experience >
            <Education ></Education >
            <Project></Project>
-           <Blog></Blog>
+           <Certifications></Certifications>
            <Contact></Contact>
           </div>
       	</div>

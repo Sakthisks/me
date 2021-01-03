@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
- import{ DevIcons } from "react-icons/di";
+ 
  import {DiHtml5, DiCss3, DiSass, DiReact, DiJava,DiPython,DiAndroid, DiBootstrap,  DiJavascript,DiNodejs, DiGit, DiAws, DiMysql, DiMongodb, DiPostgresql, DiDjango} from "react-icons/di"
 
 export default class About extends Component {
@@ -17,8 +17,7 @@ export default class About extends Component {
                     <span className="heading-meta" style={{ color: '#64ffda' }}>About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p><b>Hello! I'm Sakthi,  </b>
-                         Graduate student pursuing a Master’s degree in Computer Science with a sound understanding of fundamental concepts, upholding unique intellect and persistent drive towards technology and development. Excellent teamwork skills through previous experience, and the ability to easily collaborate with different groups and departments. Analytical and detail-oriented, allowing for quick troubleshooting and identification of viable solutions.
-                        Interested in full-stack, backend and frontend web development.  </p>
+                         New grad SDE with a Master's and a Bachelor's degree in Computer Science and demonstrated history of working in Software and Web development with agile, scrum methodologies. Skilled in Python, Java, Front end, MERN Stack, JS, C, AWS. Actively looking for SDE, Web developer, Full stack, Back-end roles in 2021.</p>
                      </div>
                 </div>
             </div>
